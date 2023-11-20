@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    background-color: forestgreen;
+    color: whitesmoke;
+}
+
+.row-container{
+    display: flex ;
+    gap: 2rem;
+    letter-spacing: 5px;
+    background-color: lightcoral;
+    color: whitesmoke;
+}
+
+
+body{
+    background-color: crimson;
+}

@@ -1,0 +1,16 @@
+a:link,a:visited{
+background-color: blueviolet;
+color: white;
+padding: 10px 15px;
+text-align: end;
+text-decoration: none;
+display: inline-block;
+}
+
+a:hover,a:active{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: chartreuse;
+}
+body{
+    color: chartreuse;
+}

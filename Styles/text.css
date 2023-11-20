@@ -1,0 +1,42 @@
+.left-alignment{
+    text-align: left;
+    text-decoration: dotted;
+    letter-spacing: 3px;
+    text-shadow: 2px 2px purple ;
+    text-indent: 50px;
+    color: darkorange;
+}
+.right-alignment{
+    text-align: right;
+    text-decoration: dashed;
+    color: darkblue;
+}
+.center{
+    text-align: center;
+    text-decoration: line-through;
+    color: green;
+}
+.justified{
+    text-align: justify;
+    text-decoration: dashed ;
+    color: darkviolet;
+}
+.blue{
+    color: blue;
+}
+.yellowgreen{
+    color: yellowgreen;
+}
+
+body{
+    background-color: hotpink;
+}
+h2{
+    color: crimson;
+    text-align: center;
+    text-size-adjust: 50px;
+}
+h3{
+    color: green;
+    text-align: center;
+}
